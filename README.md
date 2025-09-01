@@ -35,7 +35,7 @@ Training Summary:
     Saved new best model with val_acc: 100.00%
     Epoch [16/20]  Train Loss: 0.0066 | Train Acc: 99.79%  || Val Loss: 0.0012 | Val Acc: 99.92%
     Epoch [17/20]  Train Loss: 0.0202 | Train Acc: 99.35%  || Val Loss: 0.0108 | Val Acc: 99.60%
-    **Epoch [18/20]  Train Loss: 0.0202 | Train Acc: 99.39%  || Val Loss: 0.0007 | Val Acc: 100.00%**
+    Epoch [18/20]  Train Loss: 0.0202 | Train Acc: 99.39%  || Val Loss: 0.0007 | Val Acc: 100.00%
     Epoch [19/20]  Train Loss: 0.0186 | Train Acc: 99.51%  || Val Loss: 0.0066 | Val Acc: 99.84%
     Epoch [20/20]  Train Loss: 0.0150 | Train Acc: 99.59%  || Val Loss: 0.0018 | Val Acc: 99.92%
 
