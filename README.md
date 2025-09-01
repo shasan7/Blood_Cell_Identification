@@ -42,6 +42,8 @@ Training Summary:
 
 Obtained Results:
 
+    Classification Report:
+
                   precision    recall  f1-score   support
     
       EOSINOPHIL       1.00      1.00      1.00       627
@@ -54,7 +56,7 @@ Obtained Results:
     weighted avg       1.00      1.00      1.00      2503
 
 
-Confusion Matrix:
+    Confusion Matrix:
 
     [[627   0   0   0]
      [  0 622   0   0]
